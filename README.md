@@ -24,5 +24,5 @@
 
 ### Result: 
 
-    The time complexity of this algorithm is O(N). And the same algorithm for memory.
+    The time complexity of this algorithm is O(N log N). And the same algorithm for memory.
 ![img.png](img.png)
